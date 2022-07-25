@@ -1,0 +1,8 @@
+# Ignore files
+.idea/
+CMakeLists.txt
+cmake-build-debug/
+*.out
+
+main.cpp
+
